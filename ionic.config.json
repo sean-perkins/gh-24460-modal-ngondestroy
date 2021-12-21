@@ -1,0 +1,7 @@
+{
+  "name": "gh-modal-ngdestroy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
